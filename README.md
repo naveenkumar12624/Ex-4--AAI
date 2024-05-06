@@ -1,8 +1,6 @@
 <H1 ALIGN=CENTER> IMPLEMENTATION OF HIDDEN MARKOV MODEL </H1>
-<H3> NAME : Naveen Kumar S </H3>
-<H3> REGISTER NUMBER : 212221240033 </H3>
 <H3>EXPERIMENT NO : 04 </H3>
-<H3>DATE  : 20.03.2024 </H3>
+<H3>DATE  :  </H3>
 
 ## AIM: 
 Construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
